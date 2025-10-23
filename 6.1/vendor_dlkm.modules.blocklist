@@ -1,0 +1,9 @@
+blocklist aoc_unit_test_dev
+blocklist mali_kutf
+blocklist mali_kutf_clk_rate_trace_test_portal
+blocklist sscoredump_sample_test.ko
+blocklist sscoredump_test.ko
+
+blocklist bcmdhd4383
+blocklist cs40l26_i2c
+blocklist goodix_brl_touch
